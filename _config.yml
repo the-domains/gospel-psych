@@ -1,0 +1,14 @@
+layout_spectrum: 0.4928315
+color:
+  saturation: 0.2419154
+  brandStrength: 0.8079429
+  lightness: 0.8791791
+  rhythmicContrast: 0.7688172
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 1
+name: Gospel Psych
